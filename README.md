@@ -44,4 +44,4 @@ The data directory contains the following files
 
 This file contains the regression data collected through the Raspberry Pi measurements.
 
-
+![Humidity and Temperature Regression](figures/image.png)
