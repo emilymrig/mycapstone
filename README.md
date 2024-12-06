@@ -6,7 +6,8 @@ This Capstone project builds a regression to predict the humidity based on tempe
 - [Methods](#Methods)
 - [Notebooks and Code](#notebooks-and-code)
 - [regression.ipynb](#regression.ipynb)
-- [Data](#Data) 
+- [Data](#Data)
+- [Plots and Graphs](#plots-and-graphs)
 
 ## Overview
 
@@ -25,9 +26,22 @@ The following notebooks contain analytical code
 This notebook contains the code to read the regression data, build a linear model, and created a line plot
 
 ## Data
+the data directory contains the following files
+
+### regression.csv
+
+stuff here
+
+## Plots and Graphs
+
+The graphic shows the linear relationship
+
+
 
 The data directory contains the following files
 
 ### regression.csv
 
-This file contains the regression data collected through the Raspberry Pi measurements
+This file contains the regression data collected through the Raspberry Pi measurements.
+
+
